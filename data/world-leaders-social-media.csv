@@ -1,0 +1,196 @@
+"iso3c","cowc","cown","wb","State","Name","Type","Twitter_personal","Twitter_institution","Facebook_personal","Facebook_institution","Twitter_personal_id","Twitter_institution_id","Facebook_personal_id","Facebook_institution_id"
+"AFG","AFG","700","AFG","Afghanistan","Hamid Karzai","President","KarzaiH","ARG_AFG",NA,"204629649613285","2890477287","413756746",NA,"204629649613285"
+"ARG","ARG","160","ARG","Argentina","Cristina Fernández de Kirchner","President","CFKArgentina","CasaRosadaAR","CFKArgentina","casarosadaargentina","138814032","153169998","115689108495633","279459698734791"
+"ARM","ARM","371","ARM","Armenia","Tigran Sargsyan","Prime Minister ","tigransargsyan","PresidentAM_arm","43211285887",NA,"85282908","545885877","43211285887",NA
+"BEL","BEL","211","BEL","Belgium","Elio Di Rupo","Prime Minister ","eliodirupo","belgiumbe","elio.dirupo","Belgium.be","4808861","24145493","16301530829","102414209814612"
+"BLZ","BLZ","80","BLZ","Belize","Dean Barrow","Prime Minister ","BarrowDean","belizegov",NA,"GOBPressOffice","322849285","155932163",NA,"149350998433745"
+"BTN","BHU","760","BTN","Bhutan","Tshering Tobgay","Prime Minister ","tsheringtobgay","BhutanGov","tsheringtobgay","bhutan.gov.bt","37869117","2165101801","213963285282972","658688464161726"
+"BOL","BOL","145","BOL","Bolivia","Evo Morales","President","evomorales_bol","MindeGobierno","634277239999803","mingobierno","2841683823","2427864037","634277239999803","395976420455839"
+"BWA","BOT","571","BWA","Botswana","Ian Khama","President","Iankhama","BWGovernment",NA,"148228411926492","61644926","316291124",NA,"148228411926492"
+"BRA","BRA","140","BRA","Brazil","Dilma Rouseff","President","dilmabr","portalbrasil","SiteDilmaRousseff","portalbrasil","131574396","87490448","351338968253034","448342938551601"
+"BRN","BRU","835","BRN","Brunei","Hassanal Bolkiah","Sultan and Prime Minister","HassanalBolkia2","brunei_pmo",NA,"bnpmo","2322232166","1120940742",NA,"147688808616818"
+"BDI","BUI","516","BDI","Burundi","Pierre Nkurunziza","President","PierreNkurunziz","BdiPresidence",NA,"PresidenceBurundi","478038456","482242599",NA,"160157920795418"
+"CAN","CAN","20","CAN","Canada","Stephen Harper","Prime Minister ","pmharper","ServiceCanada_E","pmharper",NA,"7401202","41353531","9106562109",NA
+"COL","COL","100","COL","Colombia","Juan Manuel Santos","President","JuanManSantos","infopresidencia","JMSantos.Presidente","PresidenciadeColombia","64839766","312887235","330825443903","186850511364615"
+"CRI","COS","94","CRI","Costa Rica","Laura Chinchilla","President","Laura_Ch","presidenciacr","Laura.Chinchilla.M","CasaPresidencial","18804414","144875363","44416736883","124162787610223"
+"CYP","CYP","352","CYP","Cyprus","Nicos Anastasiades","President","AnastasiadesCY","Cypresidency","NicosAnastasiades",NA,"568981074","1165728211","107765889287008",NA
+"CZE","CZR","316","CZE","Czech Republic","Bohuslav Sobotka","Prime Minister ","SlavekSobotka","strakovka","sobotka.bohuslav","uradvlady","3107968048","164302135","103258375775","295551360389"
+"DOM","DOM","42","DOM","Dominican Republic","Danilo Medina","President","DaniloMedina","PresidenciaRD","danilomedinasanchez","PresidenciaRD","35485571","132595055","47735348138","143634975724835"
+"ECU","ECU","130","ECU","Ecuador","Rafael Correa","President","MashiRafael","Presidencia_EC","MashiRafael","PresidenciaEcuador","209780362","101895924","248984428464398","271581415409"
+"SLV","SAL","92","SLV","El Salvador","Mauricio Funes","President","FunesCartagena","presidencia_sv",NA,"PresidenciaElSalvador","2785282860","88716854",NA,"218955918568"
+"EST","EST","366","EST","Estonia","Andrus Ansip","Prime Minister ","Ansip_EU","StenbockiMaja",NA,"stenbockimaja","2803587655","41104145",NA,"109692931385"
+"FJI","FIJ","950","FJI","Fiji","Frank Bainimarama","Prime Minister ","FijiPM","FijiRepublic",NA,"FijianGovernment","395425451","393086391",NA,"207532522613024"
+"FIN","FIN","375","FIN","Finland","Jyrki Katainen","Prime Minister ","jyrkikatainen","valtioneuvosto","Jkatainen",NA,"23746425","283979780","519955534809767",NA
+"FRA","FRN","220","FRA","France","Jean-Marc Ayrault","Prime Minister ","jeanmarcayrault","Matignon","jmayrault","gouvernement.fr","28332028","621874680","205395698264","392341217527576"
+"GEO","GRG","372","GEO","Georgia","Irakli Garibashvili","Prime Minister ","PrimeMinisterGE","GovernmentGeo","GaribashviliOfficial","GeorgianGovernment","390860839","2228188470","373058439451905","137784719692774"
+"GHA","GHA","452","GHA","Ghana","John Dramani Mahama","President","JDMahama","PresidencyGhana","JDMahama","184635181553585","726748106","227729078","472991836045311","184635181553585"
+"GRC","GRC","350","GRC","Greece","Antonis Samaras","Prime Minister ","samaras_antonis","govgr","AntonisSamaras.official",NA,"83656002","207483074","200724470032263",NA
+"GTM","GUA","90","GTM","Guatemala","Otto Pérez Molina","President","ottoperezmolina","GuatemalaGob","ottoperezpp","GuatemalaGob","90978338","495102115","54937716442","380117675350607"
+"HTI","HAI","41","HTI","Haiti","Laurent Lamothe","Acting Prime Minister ","LaurentLamothe","PrimatureHT","laurent.lamothe",NA,"357533790","2559482497","195226253875577",NA
+"IDN","INS","850","IDN","Indonesia","Susilo Bambang Yudhoyono","President","SBYudhoyono","IstanaRakyat","SBYudhoyono","IstanaUntukRakyat","1307120064","1316012929","512463078819638","378812692222909"
+"IRL","IRE","205","IRL","Ireland","Enda Kenny","Taoiseach ","EndaKennyTD","merrionstreet",NA,"merrionstreet","135514272","148000327",NA,"116635611711738"
+"ISR","ISR","666","ISR","Israel","Benjamin Netanyahu","Prime Minister ","netanyahu","israelipm","Netanyahu","IsraeliPM","17061263","141084952","268108602075","124149704266450"
+"ITA","ITA","325","ITA","Italy","Enrico Letta","President of the Council of Ministers ","EnricoLetta","Palazzo_Chigi","enricoletta.it",NA,"419622371","963938472","10065481044",NA
+"JAM","JAM","51","JAM","Jamaica","Portia Simpson-Miller","Prime Minister","PSimpsonMiller","OPMJamaica","Portia.Simpson.Milller",NA,"440460647","48574376","71039727836",NA
+"JPN","JPN","740","JPN","Japan","Shinzō Abe","Prime Minister ","AbeShinzo","JPN_PMO","100003403570846","Japan.PMO","468122115","266991549","100003403570846","119541591451378"
+"KEN","KEN","501","KEN","Kenya","Uhuru Kenyatta","President","Ukenyatta","StateHouseKenya","myuhurukenyatta","StateHouseKenya","183165874","364830542","148874415141120","623565507658977"
+"LVA","LAT","367","LVA","Latvia","Valdis Dombrovskis","Prime Minister ","Vdombrovskis","Brivibas36","100003587906775",NA,"42183750","45522221","100003587906775",NA
+"LTU","LIT","368","LTU","Lithuania","Algirdas Butkevičius","Prime Minister ","Abutkevicius","Vyriausybe","algirdas.butkevicius","96251623407","271372111","41348717","152825321424882","96251623407"
+"LUX","LUX","212","LUX","Luxembourg","Xavier Bettel","Prime Minister ","Xavier_Bettel","gouv_lu","76714151717","792509457440940","173929268","2599948532","76714151717","792509457440940"
+"MKD","MAC","343","MKD","Macedonia","Nikola Gruevski","President of the Government ","GruevskiNikola","VMRO_DPMNE","Ngruevski","vmromakedonija","299942973","56079348","10642907715","90137764259"
+"MWI","MAW","553","MWI","Malawi","Joyce Banda","President","DrJoyceBanda","MalawiGovt","DrJoyceBanda","malawigovernment","2302798239","2189970192","325799237543309","195859813933854"
+"MYS","MAL","820","MYS","Malaysia","Najib Razak","Prime Minister ","NajibRazak","PMOMalaysia","najibrazak",NA,"16389180","196484517","157851205951",NA
+"MDV","MAD","781","MDV","Maldives","Abdulla Yameen","President","PresYameen","presidencymv","PresidentYameen","presidencymv","1951275630","235827932","167500346783870","174022165989770"
+"MLT","MLT","338","MLT","Malta","Joseph Muscat","Prime Minister ","JosephMuscat_JM","DOImalta","josephmuscatdotcom","DOImalta","29466039","265920717","63887949740","175517589160635"
+"MEX","MEX","70","MEX","Mexico","Enrique Peña Nieto","President","EPN","PresidenciaMX","EnriquePN","PresidenciaMX","2897441","34666670","37107394336","370845909672873"
+"MDA","MLD","359","MDA","Moldova","Iurie Leancă","Prime Minister ","IurieLeanca","GuvernulRMD","IurieLeancaUE","GuvernulRepubliciiMoldova","1479879036","2734569528","374999635943550","319803971471711"
+"MNG","MON","712","MNG","Mongolia","Norovyn Altankhuyag","Prime Minister of Mongolia ","altankhuyag_mn","zasagmn","altankhuyag.norov","www.zasag.mn","236272572","806124644","227192547292661","145117162296730"
+"NLD","NTH","210","NLD","Netherlands","Mark Rutte","Prime Minister ","MinPres","Rijksoverheid","ministerpresident",NA,"155507136","15595333","166039216791132",NA
+"NGA","NIG","475","NGA","Nigeria","Goodluck Jonathan","President","presgoodluck","GovNigeria","jonathangoodluck",NA,"262660092","2700548979","105479482835768",NA
+"NOR","NOR","385","NOR","Norway","Erna Solberg","Prime Minister ","erna_solberg","Statsmin_kontor","ernasolberg",NA,"16432083","36028993","56800396831",NA
+"PSE","NA","NA","WBG","Palestine","Rami Hamdallah","Prime Minister ","RamiHamdalla","PalestinianGov",NA,"pgmc.media","1494909290","85518943",NA,"126356524104847"
+"PRY","PAR","150","PRY","Paraguay","Horacio Cartes","President","Horacio_Cartes","PresidenciaPy","horaciocartesoficial","DireccionGeneraldeInformacionPresidencial","361445173","99295157","214727188594831","138282352917817"
+"PER","PER","135","PER","Peru","César Villanueva","President of the Council of Ministers ","CesarVPeru","prensapalacio",NA,"presidenciaperu","2551357284","122441438",NA,"200505530012627"
+"POL","POL","290","POL","Poland","Donald Tusk","President of the Council of Ministers ","donaldtusk","PremierRP",NA,"kancelaria.premiera","375146901","57626153",NA,"176114889652"
+"PRT","POR","235","PRT","Portugal","Pedro Passos Coelho","Prime Minister ","Pministrocoelho","govpt",NA,NA,"471291491","31237480",NA,NA
+"ROU","ROM","360","ROM","Romania","Victor Ponta","Prime Minister ","Victor_Ponta","guv_ro","victor.ponta","guv.ro","156221710","27864636","150967671609795","304735519648377"
+"RUS","RUS","365","RUS","Russia","Dmitry Medvedev","Chairman of the Government ","MedvedevRussia","Pravitelstvo_RF","Dmitry.Medvedev","government.ru","153812887","634725546","175517041850","185581274852486"
+"RWA","RWA","517","RWA","Rwanda","Pierre Habumuremyi","Prime Minister ","HabumuremyiP","PrimatureRwanda","636543799714653","RwandaGov","399923953","440647714","636543799714653","359060614156407"
+"KNA","SKN","60","KNA","Saint Kitts and Nevis","Denzil Douglas","Prime Minister ","DenzilLDouglas","skngov",NA,"473920689327764","1713189170","2389574116",NA,"473920689327764"
+"SLE","SIE","451","SLE","Sierra Leone","Ernest Bai Koroma","President","ebkoroma","StateHouseSL","ebkoroma","StateHouseSL","1069973798","782308724","379693422048791","434291996613187"
+"SGP","SIN","830","SGP","Singapore","Lee Hsien Loong","Prime Minister ","leehsienloong","govsingapore","leehsienloong","gov.sg","34568673","56883209","125845680811480","109555293685"
+"SVN","SLV","349","SVN","Slovenia","Alenka Bratusek","President of the Government ","Abratusek","vladaRS","alenka.bratusek",NA,"1551471600","46612022","168130996671198",NA
+"ZAF","SAF","560","ZAF","South Africa","Jacob Zuma","President","SAPresident","PresidencyZA",NA,"PresidencyZA","295663598","40839292",NA,"8383028996"
+"SSD","SSD","626","SSD","South Sudan","Salva Kiir Mayardit","President","presidentkiir","RepSouthSudan",NA,NA,"2877922900","331878888",NA,NA
+"ESP","SPN","230","ESP","Spain","Mariano Rajoy","President of the Government ","marianorajoy","desdelamoncloa","54212446406","PalaciodelaMoncloa","343447873","58417540","54212446406","271484039577944"
+"SUR","SUR","115","SUR","Suriname","Dési Bouterse","President","Dbouterse","govsuriname",NA,NA,"177882857","3293206373",NA,NA
+"UGA","UGA","500","UGA","Uganda","Amama Mbabazi","Prime Minister ","AmamaMbabazi","GovUganda","jpamamambabazi","govuganda","65587488","1041882265","399660030095815","527591730598198"
+"ARE","UAE","696","ARE","United Arab Emirates","Sheikh Mohammed bin Rashid Al Maktoum","Prime Minister ","HHShkMohd","UAEmGov","HHSheikhMohammed","UAEmGov","44335525","245243568","84820452907","108669062546478"
+"GBR","UKG","200","GBR","United Kingdom","David Cameron","Prime Minister ","David_Cameron","Number10gov","DavidCameronOfficial","10downingstreet","103065157","14224719","653092548048400","7303343452"
+"USA","USA","2","USA","United States","Barack Obama","President","BarackObama","WhiteHouse","barackobama","WhiteHouse","813286","30313925","6815841748","63811549237"
+"VEN","VEN","101","VEN","Venezuela","Nicolás Maduro","President","NicolasMaduro","PresidencialVen","NicolasMaduro","48451533827","1252764865","138901003","1402437823320030","48451533827"
+"HRV","CRO","344","HRV","Croatia","Zoran Milanović","Prime Minister ",NA,"VladaRH","ZoranMilanovic","wwwvladahr",NA,"444097675","1575164029415898","108807632571642"
+"CIV","CDI","437","CIV","Ivory Coast","Daniel Kablan Duncan","Prime Minister ",NA,"Gouvci",NA,"gouvci.officiel",NA,"316559637",NA,"244922065530890"
+"AND","AND","232","ADO","Andorra","Antoni Martí","Head of Government ",NA,"GovernAndorra",NA,"govern.ad",NA,"122452959",NA,"430374277000520"
+"AGO","ANG","540","AGO","Angola","José Eduardo dos Santos","President",NA,"CasaCivilPRA",NA,NA,NA,"373310880",NA,NA
+"ATG","AAB","58","ATG","Antigua and Barbuda","Baldwin Spencer","Prime Minister ",NA,"antiguagov",NA,"AntiguaBarbudaGovt",NA,"166231881",NA,"130947963597367"
+"PRK","PRK","731","PRK","North Korea","Pak Pong-ju","Premier of the Cabinet",NA,"uriminzok",NA,NA,NA,"166848234",NA,NA
+"AZE","AZE","373","AZE","Azerbaijan","Artur Rasizade","Prime Minister ",NA,"AzerbaijanPA",NA,NA,NA,"278520184",NA,NA
+"EGY","EGY","651","EGY","Egypt","Hazem Al Beblawi","Prime Minister ",NA,"egyptgovportal",NA,"egyptgovportal",NA,"72381349",NA,"172162876165023"
+"BHR","BAH","692","BHR","Bahrain","Prince Khalifa bin Salman Al Khalifa","Prime Minister ",NA,"eGovBahrain",NA,"egovbahrain",NA,"82787948",NA,"152559474759057"
+"BRB","BAR","53","BRB","Barbados","Freundel Stuart","Prime Minister ",NA,"gisbarbados","161612180563912","gisbarbados",NA,"2494731900","161612180563912","271334199698066"
+"QAT","QAT","694","QAT","Qatar","Sheikh Abdullah bin Nasser bin Khalifa Al Thani","Prime Minister ",NA,"HukoomiQatar",NA,"HukoomiQatar",NA,"267139205",NA,"186872247998431"
+"UKR","UKR","369","UKR","Ukraine","Mykola Azarov","Prime Minister ",NA,"kabmin_ua_e","Nikolay.Azarov","KabminUA",NA,"331507887","210998898940493","210809715619097"
+"DEU","GMY","255","DEU","Germany","Angela Merkel","Federal Chancellor ",NA,"RegSprecher","AngelaMerkel","Bundesregierung",NA,"234343491","59788447049","768905426534529"
+"BGR","BUL","355","BGR","Bulgaria","Plamen Oresharski","Prime Minister ",NA,"govbulgaria",NA,NA,NA,"2907083335",NA,NA
+"MLI","MLI","432","MLI","Mali","Outam Tatam Ly","Prime Minister ",NA,"PresidenceMali",NA,"Presidence.Mali",NA,"389486048",NA,"563531873666309"
+"MHL","MSI","983","MHL","Marshall Islands","Christopher Loeak","President",NA,"rmioppress",NA,"PresidentOfficeRMI",NA,"497423908",NA,"1418629561743451"
+"LBR","LBR","450","LBR","Liberia","Ellen Johnson Sirleaf","President",NA,"emansionliberia",NA,"emansionliberia",NA,"603417503",NA,"310591779028211"
+"TCD","CHA","483","TCD","Chad","Kalzeubet Pahimi Deubet","Prime Minister ",NA,"PMTCHAD",NA,"119987794693584",NA,"532423452",NA,"119987794693584"
+"CHL","CHL","155","CHL","Chile","Michelle Bachelet","President",NA,"gobiernodechile","MichelleBacheletPresidenta","gobiernodechile",NA,"42102939","8459707345","114405611929952"
+"MAR","MOR","600","MAR","Morocco","Abdelilah Benkirane","Prime Minister ",NA,"ChefGov_ma","PJDAbenkirane","cg.gov.ma",NA,"748291920","1634847513416903","270219276428374"
+"KOR","ROK","732","KOR","South Korea","Jung Hong-won","Prime Minister",NA,"PrimeMinisterKR",NA,"PrimeMinisterKR",NA,"125585413",NA,"184448914914155"
+"KAZ","KZK","705","KAZ","Kazakhstan","Serik Akhmetov","Prime Minister ",NA,"primeministerkz",NA,NA,NA,"288234254",NA,NA
+"LCA","SLU","56","LCA","Saint Lucia","Kenny Anthony","Prime Minister ",NA,"SaintLuciaGov","100000425153803","SaintLuciaGovernment",NA,"547314961","100000425153803","305083636229840"
+"JOR","JOR","663","JOR","Jordan","Abdullah Ensour","Prime Minister ",NA,"PrimeMinistry",NA,"PMOJO",NA,"187142863",NA,"151354084892458"
+"IND","IND","750","IND","India","Manmohan Singh","Prime Minister ",NA,"PMOIndia",NA,"PMOIndia",NA,"471741741",NA,"478216262309083"
+"MCO","MNC","221","MCO","Monaco","Michel Roger","Minister of State ",NA,"GvtMonaco",NA,"GvtMonaco",NA,"472167838",NA,"1441586412798994"
+"WSM","WSM","990","WSM","Samoa","Tuilaepa Aiono Sailele Malielegaoi","Prime Minister ",NA,"samoagovt",NA,"samoagovt",NA,"1016451774",NA,"900088560022167"
+"UZB","UZB","704","UZB","Uzbekistan","Shavkat Mirziyoyev","Prime Minister ",NA,"Scpresidenciauy",NA,NA,NA,"380961080",NA,NA
+"TGO","TOG","461","TGO","Togo","Kwesi Ahoomey-Zunu","Prime Minister",NA,"republicoftogo",NA,"6683533941",NA,"35724812",NA,"6683533941"
+"HUN","HUN","310","HUN","Hungary","Viktor Orbán","Prime Minister ",NA,"kormany_hu","orbanviktor","kormanyzat",NA,"237292791","298090296092","120370174702378"
+"SYC","SEY","591","SYC","Seychelles","James Michel","President",NA,"StateHouseSey",NA,"StateHouseSey",NA,"1057428702",NA,"586396861428269"
+"MNE","MNG","341","MNE","Montenegro","Milo Đukanović","Prime Minister ",NA,"VladaCG","djukanovic.milo",NA,NA,"450605189","53591976664",NA
+"PAK","PAK","770","PAK","Pakistan","Nawaz Sharif","Prime Minister ",NA,"eomanportal",NA,"oman.om",NA,"184673126",NA,"103365026393436"
+"DJI","DJI","522","DJI","Djibouti","Abdoulkader Kamil Mohamed","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"ALB","ALB","339","ALB","Albania","Edi Rama","Prime Minister ","ediramaal",NA,"edirama.al",NA,"273410176",NA,"138734771522",NA
+"DZA","ALG","615","DZA","Algeria","Abdelmalek Sellal","Prime Minister ","AMSellal",NA,"AbdelmalekSellal",NA,"2416157107",NA,"1399592353624996",NA
+"ISL","ICE","395","ISL","Iceland","Sigmundur Davíð Gunnlaugsson","Prime Minister ","sigmundurdavid",NA,"sigmundurdavidgunnlaugsson",NA,"231054442",NA,"156410787855312",NA
+"SVK","SLO","317","SVK","Slovakia","Robert Fico","Prime Minister ",NA,NA,"100005375046895",NA,NA,NA,"100005375046895",NA
+"AUS","AUL","900","AUS","Australia","Tony Abbott","Prime Minister ","TonyAbbottMHR",NA,"TonyAbbottMP",NA,"93766096",NA,"216342268645",NA
+"AUT","AUS","305","AUT","Austria","Werner Faymann","Federal Chancellor ","werner_faymann",NA,"bundeskanzlerfaymann",NA,"76915400",NA,"210024412396362",NA
+"BHS","BHM","31","BHS","Bahamas","Perry Christie","Prime Minister ","pgchristie",NA,"PerryGladstoneChristie",NA,"221961767",NA,"43202773015",NA
+"BGD","BNG","771","BGD","Bangladesh","Sheikh Hasina","Prime Minister ","sheikhhasina",NA,"BongobondhuKonna",NA,"59495763",NA,"306018608962",NA
+"SAU","SAU","670","SAU","Saudi Arabia","Abdullah","King and Prime Minister","RHCJO",NA,"281915178598354",NA,"1362191299",NA,"281915178598354",NA
+"SRB","NA","NA","SRB","Serbia","Ivica Dacic","President of the Government ","SerbianPM",NA,"DacicIvica",NA,"3036495555",NA,"112448782168086",NA
+"BEN","BEN","434","BEN","Benin","Yayi Boni","President","DrBoniYAYI",NA,"docteurboniyayi",NA,"100540710",NA,"120112436965",NA
+"CPV","CAP","402","CPV","Cape Verde","José Maria Neves","Prime Minister ",NA,NA,"100000414770749",NA,NA,NA,"100000414770749",NA
+"TKM","TKM","701","TKM","Turkmenistan","Gurbanguly Berdimuhamedow","President",NA,NA,NA,NA,NA,NA,NA,NA
+"BIH","BOS","346","BIH","Bosnia and Herzegovina","Vjekoslav Bevanda","Chairman of the Council of Ministers ","vbevanda",NA,NA,NA,"611770712",NA,NA,NA
+"LBY","LIB","620","LBY","Libya","Ali Zeidan","Prime Minister","AliZeidanZ",NA,NA,NA,"2420331025",NA,NA,NA
+"LIE","LIE","223","LIE","Liechtenstein","Adrian Hasler","Head of Government ","adrian_hasler",NA,"adrian.hasler1964","1411588962478507","316668206",NA,"171989386301782","1411588962478507"
+"OMN","OMA","698","OMN","Oman","Qaboos bin Said al Said","Sultan and Prime Minister",NA,NA,NA,NA,NA,NA,NA,NA
+"COM","COM","581","COM","Comoros","Ikililou Dhoinine","President",NA,NA,NA,NA,NA,NA,NA,NA
+"SWE","SWD","380","SWE","Sweden","Fredrik Reinfeldt","Prime Minister ","freinfeldt",NA,"314249689102",NA,"224759878",NA,"314249689102",NA
+"CAF","CEN","482","CAF","Central African Republic","Mahamat Kamoun","Prime Minister","MKOfficiel",NA,NA,NA,"2886990785",NA,NA,NA
+"TZA","TAZ","510","TZA","Tanzania","Mizengo Pinda","Prime Minister ","mizengo_pinda",NA,"129833770423360",NA,"3063832462",NA,"129833770423360",NA
+"COG","CON","484","COG","Congo, Republic of the","Denis Sassou Nguesso","President","SassouCG",NA,"SassouCG",NA,"1106069527",NA,"122785784486304",NA
+"TTO","TRI","52","TTO","Trinidad and Tobago","Kamla Persad-Bissessar","Prime Minister","PMKamla",NA,"KamlaPersadBissessar",NA,"388639092",NA,"348203869797",NA
+"CUB","CUB","40","CUB","Cuba","Raúl Castro","President of the Council of Ministers","raulcastror",NA,"presidenteraulcastro",NA,"291220589",NA,"198887700111",NA
+"TUR","TUR","640","TUR","Turkey","Recep Tayyip Erdogan","Prime Minister ","RT_Erdogan",NA,"RecepTayyipErdogan",NA,"68034431",NA,"344704883576",NA
+"YEM","YEM","679","YEM","Yemen","Mohammed Basindawa","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"DMA","DMA","54","DMA","Dominica","Roosevelt Skerrit","Prime Minister ","SkerritR",NA,"SupportRooseveltSkerrit",NA,"2168930017",NA,"301127620029099",NA
+"NAM","NAM","565","NAM","Namibia","Hage Geingob","Prime Minister ","hagegeingob",NA,"DrHageGeingob",NA,"2515899612",NA,"124256077730891",NA
+"NRU","NAU","970","NRU","Nauru","Baron Waqa","President","NauruBwiema",NA,NA,NA,"2442197798",NA,NA,NA
+"NPL","NEP","790","NPL","Nepal","Khil Raj Regmi","Prime Minister ","KhilRajRegmi",NA,"khilrajregmi.org",NA,"1217414348",NA,"536045939751492",NA
+"VAT","PAP","327","VAT","Vatican City","Cardinal Giuseppe Bertello","President of the Governorate ","pontifex",NA,"PopeFranciscus",NA,"500704345",NA,"595373890489979",NA
+"ETH","ETH","530","ETH","Ethiopia","Hailemariam Desalegn","Prime Minister ","HailemariamD",NA,"130218980457764","115463705238286","307850736",NA,"130218980457764","115463705238286"
+"NIC","NIC","93","NIC","Nicaragua","Daniel Ortega","President","DanielOrtega_Ni",NA,NA,NA,"766895953",NA,NA,NA
+"GNQ","EQG","411","GNQ","Equatorial Guinea","Vicente Ehate Tomi","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"ERI","ERI","531","ERI","Eritrea","Isaias Afwerki","President",NA,NA,NA,NA,NA,NA,NA,NA
+"GAB","GAB","481","GAB","Gabon","Raymond Ndong Sima","Prime Minister ","TeamNdongSima",NA,"RaymondNdongSimaOfficiel",NA,"3091686274",NA,"731196176963824",NA
+"TON","TON","955","TON","Tonga","Siale'ataongo Tu'ivakano","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"PAN","PAN","95","PAN","Panama","Ricardo Martinelli","President","rmartinelli",NA,"RiMartinelli",NA,"250265046",NA,"203949323023957",NA
+"PNG","PNG","910","PNG","Papua New Guinea","Peter O'Neill","Prime Minister ","PM_GOV_PG",NA,NA,NA,"2726058284",NA,NA,NA
+"SEN","SEN","433","SEN","Senegal","Aminata Touré","Prime Minister ",NA,NA,"475022169208287",NA,NA,NA,"475022169208287",NA
+"SWZ","SWA","572","SWZ","Swaziland","Barnabas Sibusiso Dlamini","Prime Minister ",NA,NA,"100005431028380",NA,NA,NA,"100005431028380",NA
+"HND","HON","91","HND","Honduras","Juan Orlando Hernández","President","JuanOrlandoH",NA,"juanorlandoh",NA,"58244743",NA,"124300620957187",NA
+"TLS","ETM","860","TMP","East Timor","Xanana Gusmão","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"URY","URU","165","URY","Uruguay","José Mújica","President","CordanoJose",NA,NA,NA,"991512475",NA,NA,NA
+"IRN","IRN","630","IRN","Iran","Hassan Rouhani","President","HassanRouhani",NA,"rouhani.ir",NA,"1404590618",NA,"320374868088939",NA
+"IRQ","IRQ","645","IRQ","Iraq","Nouri Al-Maliki","Prime Minister","nourialmalikiiq",NA,NA,NA,"379741993",NA,NA,NA
+"BFA","BFO","439","BFA","Burkina Faso","Luc-Adolphe Tiao","Acting Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"GRD","GRN","55","GRD","Grenada","Keith Mitchell","Prime Minister ",NA,NA,"drkeithcmitchell",NA,NA,NA,"285442564821627",NA
+"BLR","BLR","370","BLR","Belarus","Mikhail Myasnikovich","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"CMR","CAO","471","CMR","Cameroon","Philémon Yang","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"GUY","GUY","110","GUY","Guyana","Sam Hinds","Prime Minister ",NA,NA,NA,"gina.gov",NA,NA,NA,"275385732567266"
+"FSM","FSM","987","FSM","Micronesia","Manny Mori","President",NA,NA,NA,NA,NA,NA,NA,NA
+"DNK","DEN","390","DNK","Denmark","Helle Thorning-Schmidt","Prime Minister",NA,NA,"hellethorningschmidt",NA,NA,NA,"11060438851",NA
+"LBN","LEB","660","LBN","Lebanon","Tammam Salam","President","SalamTammam",NA,"TammamSalam",NA,"599985251",NA,"485067324853989",NA
+"GMB","GAM","420","GMB","Gambia, The","Yahya Jammeh","President",NA,NA,NA,NA,NA,NA,NA,NA
+"CHN","CHN","710","CHN","China","Li Keqiang","Premier of the State Council ",NA,NA,NA,NA,NA,NA,NA,NA
+"KWT","KUW","690","KWT","Kuwait","Sheikh Jaber Al-Mubarak Al-Hamad Al-Sabah","Prime Minister",NA,NA,NA,NA,NA,NA,NA,NA
+"MOZ","MZM","541","MOZ","Mozambique","Alberto Vaquina","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"SYR","SYR","652","SYR","Syria","Wael Nader Al-Halqi","Prime Minister",NA,NA,NA,NA,NA,NA,NA,NA
+"CHE","SWZ","225","CHE","Switzerland","Didier Burkhalter","Federal Council","BR_Sprecher",NA,NA,NA,"311941092",NA,NA,NA
+"SLB","SOL","940","SLB","Solomon Islands","Gordon Darcy Lilo","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"THA","THI","800","THA","Thailand","Yingluck Shinawatra","Prime Minister","PouYingluck",NA,"y.shinawatra",NA,"301933967",NA,"105044319540032",NA
+"PLW","PAL","986","PLW","Palau","Tommy Remengesau","President","TommyRemengesau",NA,"100003751498550","167766706708770","2349626330",NA,"100003751498550","167766706708770"
+"TUN","TUN","616","TUN","Tunisia","Mehdi Jomaa","Head of Government ","Mehdi_Jomaa",NA,"M.mehdi.jomaa",NA,"2246134207",NA,"694337433939801",NA
+"LKA","SRI","780","LKA","Sri Lanka","D. M. Jayaratne","Prime Minister ",NA,NA,"158543450978266",NA,NA,NA,"158543450978266",NA
+"STP","STP","403","STP","São Tomé and Príncipe","Gabriel Costa","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"MMR","MYA","775","MMR","Myanmar","Thein Sein","President","TheinSein",NA,"MMPresidentUTheinSein",NA,"247643084",NA,"465933336832151",NA
+"SOM","SOM","520","SOM","Somalia","Abdiweli Sheikh Ahmed","Prime Minister ","SomaliPM",NA,"921126674571298",NA,"1144935463",NA,"921126674571298",NA
+"PHL","PHI","840","PHL","Philippines","Benigno Aquino III","President","noynoyaquino",NA,"presidentnoy",NA,"69209858",NA,"141976959168393",NA
+"KIR","KIR","946","KIR","Kiribati","Anote Tong","President",NA,NA,NA,NA,NA,NA,NA,NA
+"KGZ","KYR","703","KGZ","Kyrgyzstan","Zhantoro Satybaldiyev","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"NZL","NEW","920","NZL","New Zealand","John Key","Prime Minister ","johnkeypm",NA,"pmjohnkey",NA,"17380167",NA,"12635800428",NA
+"VNM","DRV","816","VNM","Vietnam","Nguyễn Tấn Dũng","Prime Minister ","nguyen_tandung",NA,"thutuongofficial",NA,"250761116",NA,"573973985948239",NA
+"VCT","SVG","57","VCT","Saint Vincent and the Grenadines","Ralph Gonsalves","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"VUT","VAN","935","VUT","Vanuatu","Moana Carcasses Kalosil","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"LSO","LES","570","LSO","Lesotho","Tom Thabane","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"MRT","MAA","435","MRT","Mauritania","Moulaye Ouid Mohamed Laghdaf","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"MUS","MAS","590","MUS","Mauritius","Navin Ramgoolam","Prime Minister ",NA,NA,"DrNavinRamgoolam",NA,NA,NA,"172292952809",NA
+"NER","NIR","436","NER","Niger","Brigi Rafini","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"MDG","MAG","580","MDG","Madagascar","Omer Beriziky","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"LAO","LAO","812","LAO","Laos","Thongsing Thammavong","Prime Minister ",NA,NA,NA,"LaosKingdom",NA,NA,NA,"301011583326485"
+"ZWE","ZIM","552","ZWE","Zimbabwe","Robert Mugabe","President",NA,NA,NA,NA,NA,NA,NA,NA
+"SMR","SNM","331","SMR","San Marino","Gian Carlo Capicchioni","Captain Regent",NA,NA,NA,NA,NA,NA,NA,NA
+"ZMB","ZAM","551","ZMB","Zambia","Michael Sata","President",NA,NA,NA,NA,NA,NA,NA,NA
+"KHM","CAM","811","KHM","Cambodia","Hun Sen","Prime Minister ",NA,NA,"111975152184324",NA,NA,NA,"111975152184324",NA
+"TJK","TAJ","702","TJK","Tajikistan","Kokhir Rasulzoda","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"TUV","TUV","947","TUV","Tuvalu","Enele Sopoaga","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"GNB","GNB","404","GNB","Guinea-Bissau","Rui Duarte de Barros","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"GIN","GUI","438","GIN","Guinea","Mohamed Said Fofana","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"COD","DRC","490","ZAR","Congo, Democratic Republic of the","Augustin Matata Ponyo","Prime Minister ",NA,NA,NA,NA,NA,NA,NA,NA
+"SDN","SUD","625","SDN","Sudan","Omar al-Bashir","President",NA,NA,NA,NA,NA,NA,NA,NA
